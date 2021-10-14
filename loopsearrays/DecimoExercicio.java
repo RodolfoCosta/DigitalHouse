@@ -2,6 +2,13 @@ package loopsearrays;
 
 import java.util.Scanner;
 
+/**
+ * 
+ * @author Rodolfo => O programa visa identificar se um número maior que 1 é
+ *         primo ou não
+ *
+ */
+
 public class DecimoExercicio {
 
 	public static void main(String[] args) {
