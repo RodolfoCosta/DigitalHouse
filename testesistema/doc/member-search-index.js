@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"teste","c":"GerenciadorClientesTest1","l":"GerenciadorClientesTest1()","url":"%3Cinit%3E()"},{"p":"teste","c":"GerenciadorClientesTest1","l":"testePesquisarCliente()"}]
